@@ -1,4 +1,4 @@
-![logo](https://github.com/LoginPSGTech/LoginPSGTech/blob/main/Untitled%20design.png)
+![logo](https://github.com/LoginPSGTech/LoginPSGTech/blob/main/Login2023_Logo.png)
 
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6e069285593141.5d80c5701f629.gif)](https://psglogin.in)
