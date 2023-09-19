@@ -1,3 +1,6 @@
+![logo](https://github.com/LoginPSGTech/LoginPSGTech/blob/main/Untitled%20design.png)
+
+
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6e069285593141.5d80c5701f629.gif)](https://psglogin.in)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=F7581C&center=true&vCenter=true&width=900&lines=LOGIN+2023;" />
